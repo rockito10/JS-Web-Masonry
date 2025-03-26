@@ -1,0 +1,25 @@
+* {
+  font-family: "Arial", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.inputbox textarea {
+  resize: none;
+  width: 50%;
+}
+
+.inputbox {
+  display: flex;
+  gap: 2vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 20%;
+}
+
+.container video {
+  width: 20%;
+}
